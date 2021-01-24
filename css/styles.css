@@ -1,0 +1,35 @@
+img {
+  border: 5px solid #545;
+  size: 50px;
+}
+
+img {
+  border-radius: 50%;
+  size: 50px;
+}
+
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  height: 0px;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(179, 176, 176);
+  border-width: 6px;
+}
+h1 {
+  color: #11698e;
+}
+h2 {
+  color: #66bfbf;
+  text-decoration: underline;
+}
+.bcgrd{
+    background-color: yellow;
+}
+.bcgrd:hover{
+    background-color: lightsalmon;
+}
+
